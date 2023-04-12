@@ -5,3 +5,6 @@ RAW.JAFFLE_SHOP.CUSTOMERS as c
 inner join RAW.JAFFLE_SHOP.ORDERS as o 
 on c.ID = o.USER_ID
 
+
+
+
